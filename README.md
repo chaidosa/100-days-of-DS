@@ -63,28 +63,28 @@ Day 48: Introduction to cloud-based data science tools (e.g., Google Colab, AWS 
 Day 49: Practice using cloud-based data science tools for model deployment and collaboration <br />
 Day 50: Introduction to database management and SQL <br />
 Day 51: Practice querying and manipulating data using SQL <br />
-Day 52: Learn about data visualization using Tableau or PowerBI 
-Day 53: Create interactive and visually appealing data visualizations using Tableau or PowerBI
-Day 54: Practice data storytelling and communication skills through data visualizations
-Day 55: Introduction to anomaly detection techniques
-Day 56: Implement statistical methods for anomaly detection (e.g., Z-score, IQR)
-Day 57: Implement machine learning-based anomaly detection techniques (e.g., Isolation Forest, Local Outlier Factor)
-Day 58: Practice detecting anomalies in real-world datasets
-Day 59: Introduction to recommendation systems
+Day 52: Learn about data visualization using Tableau or PowerBI <br />
+Day 53: Create interactive and visually appealing data visualizations using Tableau or PowerBI <br />
+Day 54: Practice data storytelling and communication skills through data visualizations <br />
+Day 55: Introduction to anomaly detection techniques <br />
+Day 56: Implement statistical methods for anomaly detection (e.g., Z-score, IQR) <br />
+Day 57: Implement machine learning-based anomaly detection techniques (e.g., Isolation Forest, Local Outlier Factor) <br />
+Day 58: Practice detecting anomalies in real-world datasets <br />
+Day 59: Introduction to recommendation systems <br />
 Day 60: Implement collaborative filtering for recommendation sys<br />tems
 Day 61: Implement content-based filtering for recommendation systems<br />
 Day 62: Implement hybrid recommendation systems<br />
 Day 63: Practice building recommendation systems using real-world datasets<br />
 Day 64: Introduction to feature selection and feature importance<br />
-Day 65: Implement feature selection techniques (e.g., SelectKBest, R<br />ecursive Feature Elimination)
-Day 66: Implement feature importance techniques<br /> (e.g., feature importance from tree-based models)
-Day 67: Practice feature selection and feature importance on real-world da<br />tasets
+Day 65: Implement feature selection techniques (e.g., SelectKBest, Recursive Feature Elimination) <br />
+Day 66: Implement feature importance techniques (e.g., feature importance from tree-based models) <br />
+Day 67: Practice feature selection and feature importance on real-world datasets <br />
 Day 68: Introduction to time series forecasting techniques (e.g., ARIMA, Prophet)<br />
 Day 69: Implement time series forecasting using ARIMA<br />
 Day 70: Implement time series forecasting using Prophet<br />
-Day 71: Practice time series forecasting on real-world <br />datasets
-Day 72: Introduction to Bayesian statistics and probabilistic p<br />rogramming
-Day 73: Implement Bayesian statistics using PyMC3 or Stan<br />
+Day 71: Practice time series forecasting on real-world datasets <br />
+Day 72: Introduction to Bayesian statistics and probabilistic programming <br />
+Day 73: Implement Bayesian statistics using PyMC3 <br />
 Day 74: Practice probabilistic programming for real-world data analysis<br />
 Day 75: Introduction to reinforcement learning concepts<br />
 Day 76: Implement basic reinforcement learning algorithms (e.g., Q-learning, SARSA)<br />
@@ -98,7 +98,7 @@ Day 83: Practice ethical data science practices through case studies<br />
 Day 84: Introduction to machine learning interpretability and explainability<br />
 Day 85: Learn techniques for interpreting machine learning models (e.g., feature importance, partial dependence plots)<br />
 Day 86: Implement model interpretability techniques in Python<br />
-Day 87: Practice explaining machine learning models to stakeholders and clients
+Day 87: Practice explaining machine learning models to stakeholders and clients <br />
 Day 88: Introduction to advanced topics in data science (e.g., deep reinforcement learning, time series forecasting with neural networks)<br />
 Day 89: Choose an advanced topic in data science and learn about it in-depth<br />
 Day 90: Implement an advanced topic in data science with a real-world dataset<br />
