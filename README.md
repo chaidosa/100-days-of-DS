@@ -19,3 +19,6 @@ Day 4: Perform data visualization using Matplotlib or Seaborn <br />
 Day 5: Learn basic statistics concepts (e.g., mean, median, standard deviation)<br />
 Day 6: Practice basic statistical analysis on a dataset (e.g., calculating descriptive statistics) <br />
 Day 7: Introduction to machine learning concepts (e.g., supervised and unsupervised learning) <br />
+Day 8: Simple Linear Regression <br/>
+Day 9: Revisiting Python OOPs <br/>
+Day 10: Fundamental / Basics of probability theory for data science or in general <br/>
