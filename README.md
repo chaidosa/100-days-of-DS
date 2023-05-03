@@ -22,3 +22,4 @@ Day 7: Introduction to machine learning concepts (e.g., supervised and unsupervi
 Day 8: Simple Linear Regression <br/>
 Day 9: Revisiting Python OOPs <br/>
 Day 10: Fundamental / Basics of probability theory for data science or in general <br/>
+Day 11: Not decided yet: Will update ASAP! <br/>
