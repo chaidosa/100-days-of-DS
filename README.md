@@ -24,3 +24,4 @@ Day 9: Revisiting Python OOPs <br/>
 Day 10: Fundamental / Basics of probability theory for data science or in general <br/>
 Day 11: Principal component analysis<br/>
 Day 12: Clustering Algorithms <br/>
+Day 13: Linear Regression, Optimizing error function, Gradient descent. <br/>
