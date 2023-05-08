@@ -25,4 +25,4 @@ Day 10: Fundamental / Basics of probability theory for data science or in genera
 Day 11: Principal component analysis<br/>
 Day 12: Clustering Algorithms <br/>
 Day 13: Linear Regression, Optimizing error function, Gradient descent. <br/>
-Day 14: Classification <br/>
+Day 14: Classification + first excercise <br/>
