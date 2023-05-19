@@ -26,3 +26,4 @@ Day 11: Principal component analysis<br/>
 Day 12: Clustering Algorithms <br/>
 Day 13: Linear Regression, Optimizing error function, Gradient descent. <br/>
 Day 14: Classification + first excercise <br/>
+Day 15: Details of KNN (K Nearest Neighbor) <br/>
