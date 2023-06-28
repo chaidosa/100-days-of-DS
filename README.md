@@ -1,3 +1,6 @@
+## Halted for Now
+ I am busy with my research work these days, but I will resume the series as soon as possible
+
 ## 100-days-of-Code- Data Science
 Welcome to the 100 Days of Code challenge for data science! This is a comprehensive 100-day plan to learn and master various aspects of data science through coding and hands-on practice. Whether you are a beginner or have some experience in data science, this challenge will provide you with a structured roadmap to improve your skills and gain confidence in your data science abilities.
 
